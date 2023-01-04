@@ -3,6 +3,7 @@ const mensaje = document.querySelector(".mensaje");
 const copia = document.querySelector(".copiar");
 copia.style.display = "none"
 
+
 function validarTexto(){
     let textoEscrito = document.querySelector(".text-area").value;
     let validador = textoEscrito.match(/^[a-z]*$/);
@@ -13,8 +14,6 @@ function validarTexto(){
         return true;
     }
 }
-
-validarTexto()
 
 
 function btnEncriptar(){
