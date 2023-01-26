@@ -20,7 +20,7 @@ Para descargar el archivo: Puede hacer clic en el botón verde con el nombre "Co
 
 ## Enlaces útiles!
 ---
-### Videos de solución challenge ONE encriptador de texto
+### Videos de Solución del Challenge ONE Encriptador de Texto
 
  - Parte I: [HTML y CSS](https://www.youtube.com/watch?v=oQgt8BF2wAg)
  - Parte II: [Lógica con Javascript](https://www.youtube.com/watch?v=DVjp-TJihAM)
